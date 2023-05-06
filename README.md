@@ -35,4 +35,4 @@ The assets and project settings files are included in the repository, so you don
 This game was created by Basel Anaya. If you have any questions or comments, you can reach me at baselanaya@gmail.com.
 
 ### License
-This project is licensed under the [Your License] License. See the LICENSE.md file for details
+This project is licensed under the GNU GENERAL PUBLIC LICENSE v3.0 License. See the LICENSE.md file for details
