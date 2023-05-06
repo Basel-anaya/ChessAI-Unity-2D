@@ -11,7 +11,7 @@ To clone the project from GitHub, follow these steps:
 3. Type the following command:
 
 ```bash
-git clone https://github.com/your_username/2D-Chess-Game.git
+git clone https://github.com/Basel-anaya/ChessAI-Unity-2D.git
 ```
 
 4. Press Enter to create your local clone.
